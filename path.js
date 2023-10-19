@@ -6,3 +6,4 @@ console.log(path.extname(p))
 console.log(path.isAbsolute(p))
 console.log(path.parse(p).name)
 
+console.log("hello")
